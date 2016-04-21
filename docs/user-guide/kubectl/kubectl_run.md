@@ -1,6 +1,7 @@
 ---
----
+draft: false
 
+---
 ## kubectl run
 
 Run a particular image on the cluster.

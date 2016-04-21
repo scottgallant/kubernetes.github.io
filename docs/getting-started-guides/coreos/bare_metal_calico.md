@@ -1,6 +1,7 @@
 ---
----
+draft: false
 
+---
 This document describes how to deploy Kubernetes with Calico networking on _bare metal_ CoreOS. For more information on Project Calico, visit [projectcalico.org](http://projectcalico.org) and the [calico-containers repository](https://github.com/projectcalico/calico-containers).
 
 To install Calico on an existing Kubernetes cluster, or for more information on deploying Calico with Kubernetes in a number of other environments take a look at our supported [deployment guides](https://github.com/projectcalico/calico-containers/tree/master/docs/cni/kubernetes).

@@ -1,6 +1,7 @@
 ---
----
+draft: false
 
+---
 [Juju](https://jujucharms.com/docs/stable/about-juju) makes it easy to deploy
 Kubernetes by provisioning, installing and configuring all the systems in
 the cluster. Once deployed the cluster can easily scale up with one command

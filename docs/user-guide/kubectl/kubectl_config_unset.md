@@ -1,6 +1,7 @@
 ---
----
+draft: false
 
+---
 ## kubectl config unset
 
 Unsets an individual value in a kubeconfig file

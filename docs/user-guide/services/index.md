@@ -1,6 +1,7 @@
 ---
----
+draft: false
 
+---
 Kubernetes [`Pods`](/docs/user-guide/pods) are mortal. They are born and they die, and they
 are not resurrected.  [`ReplicationControllers`](/docs/user-guide/replication-controller) in
 particular create and destroy `Pods` dynamically (e.g. when scaling up or down

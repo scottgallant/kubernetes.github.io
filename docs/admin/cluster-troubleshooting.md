@@ -1,6 +1,7 @@
 ---
----
+draft: false
 
+---
 This doc is about cluster troubleshooting; we assume you have already ruled out your application as the root cause of the
 problem you are experiencing. See
 the [application troubleshooting guide](/docs/user-guide/application-troubleshooting) for tips on application debugging.

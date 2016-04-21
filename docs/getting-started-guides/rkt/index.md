@@ -1,6 +1,7 @@
 ---
----
+draft: false
 
+---
 This document describes how to run Kubernetes using [rkt](https://github.com/coreos/rkt) as a container runtime.
 We still have [a bunch of work](http://issue.k8s.io/8262) to do to make the experience with rkt wonderful, please stay tuned!
 

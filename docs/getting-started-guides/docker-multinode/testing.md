@@ -1,6 +1,7 @@
 ---
----
+draft: false
 
+---
 To validate that your node(s) have been added, run:
 
 ```shell

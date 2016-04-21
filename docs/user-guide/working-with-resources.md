@@ -1,6 +1,7 @@
 ---
----
+draft: false
 
+---
 *This document is aimed at users who have worked through some of the examples,
 and who want to learn more about using kubectl to manage resources such
 as pods and services.  Users who want to access the REST API directly,

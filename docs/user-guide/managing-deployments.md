@@ -1,4 +1,6 @@
 ---
+draft: false
+
 ---
 You've deployed your application and exposed it via a service. Now what? Kubernetes provides a number of tools to help you manage your application deployment, including scaling and updating. Among the features we'll discuss in more depth are [configuration files](/docs/user-guide/configuring-containers/#configuration-in-kubernetes) and [labels](/docs/user-guide/deploying-applications/#labels).
 

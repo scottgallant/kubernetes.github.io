@@ -1,9 +1,9 @@
-bigheader: "Samples"
-abstract: "A collection of example applications that show how to use Kubernetes."
+---
+bigheader: Samples
+abstract: A collection of example applications that show how to use Kubernetes.
 toc:
 - title: Samples
-  path: /docs/samples/
-
+  path: "/docs/samples/"
 - title: Clustered Application Samples
   section:
   - title: Apache Cassandra Database
@@ -31,23 +31,21 @@ toc:
   - title: Ceph
     path: https://github.com/kubernetes/kubernetes/tree/release-1.2/examples/rbd/
   - title: MEAN stack on Google Cloud Platform
-    path: /docs/getting-started-guides/meanstack/
-
+    path: "/docs/getting-started-guides/meanstack/"
 - title: Persistent Volume Samples
   section:
   - title: Persistent Volumes Walkthrough
-    path: /docs/user-guide/persistent-volumes/walkthrough/
+    path: "/docs/user-guide/persistent-volumes/walkthrough/"
   - title: WordPress on a Kubernetes Persistent Volume
     path: https://github.com/kubernetes/kubernetes/tree/release-1.2/examples/mysql-wordpress-pd/
   - title: GlusterFS
-    path: /https://github.com/kubernetes/kubernetes/tree/release-1.2/examples/glusterfs/
+    path: "/https://github.com/kubernetes/kubernetes/tree/release-1.2/examples/glusterfs/"
   - title: iSCSI
     path: https://github.com/kubernetes/kubernetes/tree/release-1.2/examples/iscsi/
   - title: NFS
     path: https://github.com/kubernetes/kubernetes/tree/release-1.2/examples/nfs/
   - title: Downward API Volumes
-    path: /docs/user-guide/downward-api/volume
-
+    path: "/docs/user-guide/downward-api/volume"
 - title: Multi-tier Application Samples
   section:
   - title: Guestbook - Go Server
@@ -56,15 +54,11 @@ toc:
     path: https://github.com/kubernetes/kubernetes/tree/release-1.2/examples/guestbook/
   - title: MySQL - Phabricator Server
     path: https://github.com/kubernetes/kubernetes/tree/release-1.2/examples/phabricator/
-
 - title: Elasticsearch/Kibana Logging Demo
   path: https://github.com/kubernetes/kubernetes.github.io/tree/master/docs/user-guide/logging-demo
-
 - title: ConfigMap Example
   path: https://github.com/kubernetes/kubernetes.github.io/tree/master/docs/user-guide/configmap
-
 - title: Horizontal Pod Autoscaling Example
-  path: /docs/user-guide/horizontal-pod-autoscaling/walkthrough/
-
+  path: "/docs/user-guide/horizontal-pod-autoscaling/walkthrough/"
 - title: Secrets Walkthrough
-  path: /docs/user-guide/secrets/walkthrough/
+  path: "/docs/user-guide/secrets/walkthrough/"

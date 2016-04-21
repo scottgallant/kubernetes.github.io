@@ -1,6 +1,7 @@
 ---
----
+draft: false
 
+---
 A Namespace is a mechanism to partition resources created by users into
 a logically named group.
 

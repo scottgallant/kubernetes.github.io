@@ -1,6 +1,7 @@
 ---
----
+draft: false
 
+---
 This document outlines the various binary components that need to run to
 deliver a functioning Kubernetes cluster.
 

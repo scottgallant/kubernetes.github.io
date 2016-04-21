@@ -1,6 +1,7 @@
 ---
----
+draft: false
 
+---
 The purpose of this guide is to help you become familiar with [Kubernetes Persistent Volumes](/docs/user-guide/persistent-volumes/).  By the end of the guide, we'll have
 nginx serving content from your persistent volume.
 

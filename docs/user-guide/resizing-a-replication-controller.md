@@ -1,6 +1,7 @@
 ---
----
+draft: false
 
+---
 To increase or decrease the number of pods under a replication controller's
 control, use the `kubectl scale` command:
 

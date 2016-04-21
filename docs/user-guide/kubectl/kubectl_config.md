@@ -1,6 +1,7 @@
 ---
----
+draft: false
 
+---
 ## kubectl config
 
 config modifies kubeconfig files

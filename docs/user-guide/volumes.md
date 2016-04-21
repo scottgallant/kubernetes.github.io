@@ -1,6 +1,7 @@
 ---
----
+draft: false
 
+---
 On-disk files in a container are ephemeral, which presents some problems for
 non-trivial applications when running in containers.  First, when a container
 crashes kubelet will restart it, but the files will be lost - the

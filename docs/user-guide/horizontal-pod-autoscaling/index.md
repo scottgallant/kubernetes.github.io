@@ -1,6 +1,7 @@
 ---
----
+draft: false
 
+---
 This document describes the current state of Horizontal Pod Autoscaler in Kubernetes.
 
 ## What is Horizontal Pod Autoscaler?

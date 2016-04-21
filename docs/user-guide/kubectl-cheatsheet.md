@@ -1,4 +1,6 @@
 ---
+draft: false
+
 ---
 An assortment of compact kubectl examples
 

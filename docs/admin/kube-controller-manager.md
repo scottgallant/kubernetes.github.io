@@ -1,6 +1,7 @@
 ---
----
+draft: false
 
+---
 ## kube-controller-manager
 
 

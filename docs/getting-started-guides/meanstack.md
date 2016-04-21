@@ -1,6 +1,7 @@
 ---
----
+draft: false
 
+---
 **By: Sandeep Dinesh** - _July 29, 2015_
 
 ![image](/images/docs/meanstack/image_0.png)

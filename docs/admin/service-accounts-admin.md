@@ -1,6 +1,7 @@
 ---
----
+draft: false
 
+---
 *This is a Cluster Administrator guide to service accounts.  It assumes knowledge of
 the [User Guide to Service Accounts](/docs/user-guide/service-accounts).*
 

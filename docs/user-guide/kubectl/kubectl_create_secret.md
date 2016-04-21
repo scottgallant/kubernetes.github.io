@@ -1,6 +1,7 @@
 ---
----
+draft: false
 
+---
 ## kubectl create secret
 
 Create a secret using specified subcommand.

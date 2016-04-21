@@ -1,6 +1,7 @@
 ---
----
+draft: false
 
+---
 Many cloud providers (e.g. Google Compute Engine) define firewalls that help prevent inadvertent
 exposure to the internet.  When exposing a service to the external world, you may need to open up
 one or more ports in these firewalls to serve traffic.  This document describes this process, as

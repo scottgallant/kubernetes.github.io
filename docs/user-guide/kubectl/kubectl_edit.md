@@ -1,6 +1,7 @@
 ---
----
+draft: false
 
+---
 ## kubectl edit
 
 Edit a resource on the server

@@ -1,6 +1,7 @@
 ---
----
+draft: false
 
+---
 ## kubectl create
 
 Create a resource by filename or stdin

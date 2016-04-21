@@ -1,6 +1,7 @@
 ---
----
+draft: false
 
+---
 When several users or teams share a cluster with a fixed number of nodes,
 there is a concern that one team could use more than its fair share of resources.
 

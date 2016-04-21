@@ -1,6 +1,7 @@
 ---
----
+draft: false
 
+---
 Kubernetes approaches networking somewhat differently than Docker does by
 default.  There are 4 distinct networking problems to solve:
 

@@ -1,6 +1,7 @@
 ---
----
+draft: false
 
+---
 * Supported Version: v0.18.1
 
 In general, the dev-build-and-up.sh workflow for Rackspace is the similar to Google Compute Engine. The specific implementation is different due to the use of CoreOS, Rackspace Cloud Files and the overall network design.

@@ -1,6 +1,7 @@
 ---
----
+draft: false
 
+---
 Ok, you've run one of the [getting started guides](/docs/getting-started-guides/) and you have
 successfully turned up a Kubernetes cluster.  Now what?  This guide will help you get oriented
 to Kubernetes and running your first containers on the cluster.

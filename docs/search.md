@@ -1,7 +1,9 @@
 ---
-layout: docwithnav
 title: Search Results
+layout: docwithnav
 hideTOC: true
+draft: false
+
 ---
 <script>
 

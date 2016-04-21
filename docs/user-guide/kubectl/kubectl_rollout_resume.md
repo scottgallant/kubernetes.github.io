@@ -1,6 +1,7 @@
 ---
----
+draft: false
 
+---
 ## kubectl rollout resume
 
 Resume a paused resource

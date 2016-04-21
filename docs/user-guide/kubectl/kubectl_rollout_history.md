@@ -1,6 +1,7 @@
 ---
----
+draft: false
 
+---
 ## kubectl rollout history
 
 view rollout history

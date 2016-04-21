@@ -1,7 +1,7 @@
 ---
+draft: false
+
 ---
-
-
 Kubernetes has a web-based user interface that allows you to deploy containerized
 applications to a Kubernetes cluster, troubleshoot them, and manage the cluster itself.
 

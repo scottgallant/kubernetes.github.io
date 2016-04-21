@@ -1,6 +1,7 @@
 ---
----
+draft: false
 
+---
 This guide is to help users debug applications that are deployed into Kubernetes and not behaving correctly.
 This is *not* a guide for people who want to debug their cluster.  For that you should check out
 [this guide](/docs/admin/cluster-troubleshooting)

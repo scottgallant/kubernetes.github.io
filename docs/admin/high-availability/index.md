@@ -1,6 +1,7 @@
 ---
----
+draft: false
 
+---
 ## Introduction
 
 This document describes how to build a high-availability (HA) Kubernetes cluster.  This is a fairly advanced topic.

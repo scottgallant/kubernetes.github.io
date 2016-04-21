@@ -1,6 +1,7 @@
 ---
----
+draft: false
 
+---
 ## kubectl annotate
 
 Update the annotations on a resource

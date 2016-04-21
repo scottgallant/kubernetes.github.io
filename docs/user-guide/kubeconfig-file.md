@@ -1,6 +1,7 @@
 ---
----
+draft: false
 
+---
 Authentication in kubernetes can differ for different individuals.
 
 - A running kubelet might have one way of authenticating (i.e. certificates).

@@ -1,6 +1,7 @@
 ---
----
+draft: false
 
+---
 JSONPath template is composed of JSONPath expressions enclosed by {}.
 And we add three functions in addition to the original JSONPath syntax:
 

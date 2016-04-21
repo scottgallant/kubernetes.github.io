@@ -1,6 +1,7 @@
 ---
----
+draft: false
 
+---
 A service account provides an identity for processes that run in a Pod.
 
 *This is a user introduction to Service Accounts.  See also the

@@ -1,6 +1,7 @@
 ---
----
+draft: false
 
+---
 ## kubectl rollout pause
 
 Mark the provided resource as paused

@@ -1,6 +1,7 @@
 ---
----
+draft: false
 
+---
 This guide will help you get oriented to Kubernetes and running your first containers on the cluster. If you are already familiar with the docker-cli, you can also checkout the docker-cli to kubectl migration guide [here](/docs/user-guide/docker-cli-to-kubectl).
 
 * TOC

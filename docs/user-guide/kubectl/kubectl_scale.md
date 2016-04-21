@@ -1,6 +1,7 @@
 ---
----
+draft: false
 
+---
 ## kubectl scale
 
 Set a new size for a Replication Controller, Job, or Deployment.

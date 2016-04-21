@@ -1,6 +1,7 @@
 ---
----
+draft: false
 
+---
 ## kubectl config set-context
 
 Sets a context entry in kubeconfig

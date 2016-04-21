@@ -1,6 +1,7 @@
 ---
----
+draft: false
 
+---
 This example demonstrates how [resource quota](/docs/admin/admission-controllers/#resourcequota) and
 [limitsranger](/docs/admin/admission-controllers/#limitranger) can be applied to a Kubernetes namespace.
 See [ResourceQuota design doc](https://github.com/kubernetes/kubernetes/blob/{{page.githubbranch}}/docs/design/admission_control_resource_quota.md) for more information.

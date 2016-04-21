@@ -1,6 +1,7 @@
 ---
----
+draft: false
 
+---
 This document describes several topics related to the lifecycle of a cluster: creating a new cluster,
 upgrading your cluster's
 master and worker nodes, performing node maintenance (e.g. kernel upgrades), and upgrading the Kubernetes API version of a

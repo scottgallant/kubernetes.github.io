@@ -1,6 +1,7 @@
 ---
----
+draft: false
 
+---
 ## kubectl rollout
 
 rollout manages a deployment

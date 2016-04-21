@@ -1,6 +1,7 @@
 ---
----
+draft: false
 
+---
 ### Get the template file
 
 First of all, download the dns template

@@ -1,6 +1,7 @@
 ---
----
+draft: false
 
+---
 ## kubectl replace
 
 Replace a resource by filename or stdin.

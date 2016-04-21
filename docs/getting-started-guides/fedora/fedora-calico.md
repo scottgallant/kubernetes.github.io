@@ -1,6 +1,7 @@
 ---
----
+draft: false
 
+---
 This guide will walk you through the process of getting a Kubernetes Fedora cluster running on Digital Ocean with networking powered by Calico networking.
 It will cover the installation and configuration of the following systemd processes on the following hosts:
 

@@ -1,4 +1,6 @@
 ---
+draft: false
+
 ---
 ## kubectl create secret docker-registry
 

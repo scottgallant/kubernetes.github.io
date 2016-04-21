@@ -1,6 +1,7 @@
 ---
----
+draft: false
 
+---
 This page is designed to help you use logs to troubleshoot issues with your Kubernetes solution.
 
 ## Logging by Kubernetes Components

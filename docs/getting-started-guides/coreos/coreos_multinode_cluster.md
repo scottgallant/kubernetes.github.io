@@ -1,6 +1,7 @@
 ---
----
+draft: false
 
+---
 Use the [master.yaml](/docs/getting-started-guides/coreos/cloud-configs/master.yaml) and [node.yaml](/docs/getting-started-guides/coreos/cloud-configs/node.yaml) cloud-configs to provision a multi-node Kubernetes cluster.
 
 > **Attention**: This requires at least CoreOS version **[695.0.0][coreos695]**, which includes `etcd2`.

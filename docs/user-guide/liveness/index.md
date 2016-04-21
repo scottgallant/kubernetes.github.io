@@ -1,6 +1,7 @@
 ---
----
+draft: false
 
+---
 This example shows two types of pod [health checks](/docs/user-guide/production-pods/#liveness-and-readiness-probes-aka-health-checks): HTTP checks and container execution checks.
 
 The [exec-liveness.yaml](/docs/user-guide/liveness/exec-liveness.yaml) demonstrates the container execution check.

@@ -1,6 +1,7 @@
 ---
----
+draft: false
 
+---
 This guide is for people who want to craft a custom Kubernetes cluster.  If you
 can find an existing Getting Started Guide that meets your needs on [this
 list](/docs/getting-started-guides/), then we recommend using it, as you will be able to benefit

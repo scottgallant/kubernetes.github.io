@@ -1,6 +1,7 @@
 ---
----
+draft: false
 
+---
 ## kubectl create configmap
 
 Create a configMap from a local file, directory or literal value.

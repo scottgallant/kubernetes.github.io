@@ -1,6 +1,7 @@
 ---
----
+draft: false
 
+---
 ## kubectl version
 
 Print the client and server version information.

@@ -1,6 +1,7 @@
 ---
----
+draft: false
 
+---
 In Kubernetes, authorization happens as a separate step from authentication.
 See the [authentication documentation](/docs/admin/authentication) for an
 overview of authentication.

@@ -1,6 +1,7 @@
 ---
----
+draft: false
 
+---
 ## kubectl patch
 
 Update field(s) of a resource using strategic merge patch.

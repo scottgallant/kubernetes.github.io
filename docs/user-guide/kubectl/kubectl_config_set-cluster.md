@@ -1,6 +1,7 @@
 ---
----
+draft: false
 
+---
 ## kubectl config set-cluster
 
 Sets a cluster entry in kubeconfig

@@ -1,4 +1,6 @@
 ---
+draft: false
+
 ---
 Many applications require configuration via some combination of config files, command line
 arguments, and environment variables.  These configuration artifacts should be decoupled from image

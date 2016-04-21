@@ -1,3 +1,4 @@
+---
 overrides:
 - path: docs/api-reference
 - path: docs/user-guide/kubectl
@@ -13,4 +14,3 @@ overrides:
 - copypath: k8s/cluster/saltbase/salt/fluentd-gcp/fluentd-gcp.yaml docs/getting-started-guides/fluentd-gcp.yaml
 - copypath: k8s/examples/blog-logging/counter-pod.yaml docs/getting-started-guides/counter-pod.yaml
 - copypath: k8s/examples/blog-logging/counter-pod.yaml docs/user-guide/counter-pod.yaml
-

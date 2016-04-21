@@ -1,6 +1,7 @@
 ---
----
+draft: false
 
+---
 ## kubectl config set-credentials
 
 Sets a user entry in kubeconfig

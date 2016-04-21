@@ -1,6 +1,7 @@
 ---
----
+draft: false
 
+---
 ## kubectl explain
 
 Documentation of resources.

@@ -1,6 +1,7 @@
 ---
----
+draft: false
 
+---
 ## kubectl config current-context
 
 Displays the current-context

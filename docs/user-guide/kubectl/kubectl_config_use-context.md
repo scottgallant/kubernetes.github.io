@@ -1,6 +1,7 @@
 ---
----
+draft: false
 
+---
 ## kubectl config use-context
 
 Sets the current-context in a kubeconfig file

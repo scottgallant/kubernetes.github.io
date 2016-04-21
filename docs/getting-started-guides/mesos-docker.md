@@ -1,7 +1,7 @@
 ---
+draft: false
+
 ---
-
-
 The mesos/docker provider uses docker-compose to launch Kubernetes as a Mesos framework, running in docker with its
 dependencies (etcd & mesos).
 

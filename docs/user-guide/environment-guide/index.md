@@ -1,6 +1,7 @@
 ---
----
+draft: false
 
+---
 This example demonstrates running pods, replication controllers, and
 services. It shows two types of pods: frontend and backend, with
 services on top of both. Accessing the frontend pod will return

@@ -1,11 +1,12 @@
 ---
----
+draft: false
 
+---
 These instructions are very similar to the master set-up above, but they are duplicated for clarity.
 You need to repeat these instructions for each node you want to join the cluster.
 We will assume that you have the IP address of the master in `${MASTER_IP}` that you created in the [master instructions](/docs/getting-started-guides/docker-multinode/master/).  We'll need to run several versioned Kubernetes components, so we'll assume that the version we want
 to run is `${K8S_VERSION}`, which should hold a released version of Kubernetes >= "1.2.0-alpha.6"
-
+asdf
 Enviroinment variables used:
 
 ```shell

@@ -1,6 +1,7 @@
 ---
----
+draft: false
 
+---
 ## Introduction
 
 Kubernetes 1.2 adds support for running a single cluster in multiple failure zones

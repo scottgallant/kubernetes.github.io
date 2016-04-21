@@ -1,6 +1,7 @@
 ---
----
+draft: false
 
+---
 By default, the Kubernetes Dashboard is deployed as a cluster addon. For 1.2 clusters, it is enabled by default.
 
 If you want to manually install it, visit

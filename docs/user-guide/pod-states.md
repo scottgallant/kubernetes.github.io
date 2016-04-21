@@ -1,6 +1,7 @@
 ---
----
+draft: false
 
+---
 Updated: 4/14/2015
 
 This document covers the lifecycle of a pod.  It is not an exhaustive document, but an introduction to the topic.

@@ -1,6 +1,7 @@
 ---
----
+draft: false
 
+---
 ## kubectl drain
 
 Drain node in preparation for maintenance

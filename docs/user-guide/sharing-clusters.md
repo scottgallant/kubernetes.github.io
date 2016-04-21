@@ -1,6 +1,7 @@
 ---
----
+draft: false
 
+---
 Client access to a running Kubernetes cluster can be shared by copying
 the `kubectl` client config bundle ([kubeconfig](/docs/user-guide/kubeconfig-file)).
 This config bundle lives in `$HOME/.kube/config`, and is generated

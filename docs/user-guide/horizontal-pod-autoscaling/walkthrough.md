@@ -1,6 +1,7 @@
 ---
----
+draft: false
 
+---
 Horizontal pod autoscaling allows to automatically scale the number of pods
 in a replication controller, deployment or replica set based on observed CPU utilization.
 In the future also other metrics will be supported.

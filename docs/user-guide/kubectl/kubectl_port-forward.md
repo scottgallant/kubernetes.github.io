@@ -1,4 +1,6 @@
 ---
+draft: false
+
 ---
 ## kubectl port-forward
 

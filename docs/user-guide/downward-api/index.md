@@ -1,6 +1,7 @@
 ---
----
+draft: false
 
+---
 It is sometimes useful for a container to have information about itself, but we
 want to be careful not to over-couple containers to Kubernetes. The downward
 API allows containers to consume information about themselves or the system and

@@ -1,6 +1,7 @@
 ---
----
+draft: false
 
+---
 ## kubectl config set
 
 Sets an individual value in a kubeconfig file

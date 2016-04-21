@@ -1,6 +1,7 @@
 ---
----
+draft: false
 
+---
 ## kubectl exec
 
 Execute a command in a container.

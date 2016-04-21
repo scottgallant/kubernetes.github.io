@@ -1,6 +1,7 @@
 ---
----
+draft: false
 
+---
 ## kubectl rollout undo
 
 undoes a previous rollout

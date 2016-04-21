@@ -1,6 +1,7 @@
 ---
----
+draft: false
 
+---
 We'll begin by setting up the master node.  For the purposes of illustration, we'll assume that the IP of this machine
 is `${MASTER_IP}`.  We'll need to run several versioned Kubernetes components, so we'll assume that the version we want
 to run is `${K8S_VERSION}`, which should hold a released version of Kubernetes >= "1.2.1"

@@ -1,6 +1,7 @@
 ---
----
+draft: false
 
+---
 ## Kubectl CLI and Pods
 
 For Kubernetes 101, we will cover kubectl, pods, volumes, and multiple containers

@@ -1,6 +1,7 @@
 ---
----
+draft: false
 
+---
 The following instructions show you how to set up a simple, single node Kubernetes cluster using Docker.
 
 Here's a diagram of what the final result will look like:

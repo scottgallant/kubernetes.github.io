@@ -1,6 +1,7 @@
 ---
----
+draft: false
 
+---
 ## kubectl logs
 
 Print the logs for a container in a pod.

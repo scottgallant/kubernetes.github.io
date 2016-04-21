@@ -1,6 +1,7 @@
 ---
----
+draft: false
 
+---
 ## kubectl attach
 
 Attach to a running container.

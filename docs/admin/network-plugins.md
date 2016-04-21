@@ -1,6 +1,7 @@
 ---
----
+draft: false
 
+---
 __Disclaimer__: Network plugins are in alpha. Its contents will change rapidly.
 
 Network plugins in Kubernetes come in a few flavors:

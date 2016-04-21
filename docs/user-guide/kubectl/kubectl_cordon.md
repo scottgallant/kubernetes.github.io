@@ -1,6 +1,7 @@
 ---
----
+draft: false
 
+---
 ## kubectl cordon
 
 Mark node as unschedulable

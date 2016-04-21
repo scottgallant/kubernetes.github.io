@@ -1,6 +1,7 @@
 ---
----
+draft: false
 
+---
 ## kubectl create serviceaccount
 
 Create a service account with the specified name.

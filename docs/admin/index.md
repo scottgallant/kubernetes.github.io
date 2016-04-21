@@ -1,6 +1,7 @@
 ---
----
+draft: false
 
+---
 The cluster admin guide is for anyone creating or administering a Kubernetes cluster.
 It assumes some familiarity with concepts in the [User Guide](/docs/user-guide/).
 

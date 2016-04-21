@@ -1,6 +1,7 @@
 ---
----
+draft: false
 
+---
 ## kubectl describe
 
 Show details of a specific resource or group of resources

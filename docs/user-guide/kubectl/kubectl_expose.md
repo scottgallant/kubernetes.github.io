@@ -1,6 +1,7 @@
 ---
----
+draft: false
 
+---
 ## kubectl expose
 
 Take a replication controller, service or pod and expose it as a new Kubernetes Service

@@ -1,7 +1,7 @@
 ---
+draft: false
+
 ---
-
-
 ## Support
 
 At {{page.version}}, Kubernetes supports clusters with up to 1000 nodes. More specifically, we support configurations that meet *all* of the following criteria:

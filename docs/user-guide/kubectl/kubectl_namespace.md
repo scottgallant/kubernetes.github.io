@@ -1,6 +1,7 @@
 ---
----
+draft: false
 
+---
 ## kubectl namespace
 
 SUPERSEDED: Set and view the current Kubernetes namespace

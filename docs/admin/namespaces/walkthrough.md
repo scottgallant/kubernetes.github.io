@@ -1,6 +1,7 @@
 ---
----
+draft: false
 
+---
 Kubernetes _namespaces_ help different projects, teams, or customers to share a Kubernetes cluster.
 
 It does this by providing the following:
